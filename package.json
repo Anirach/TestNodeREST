@@ -4,7 +4,7 @@
   "description": "TestNodeREST",
   "main": "server.js",
   "scripts": {
-    "devStart": "nodemon server.js"
+    "devStart": "nodemon index.js"
   },
   "repository": {
     "type": "git",
