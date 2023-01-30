@@ -13,3 +13,14 @@ Content-Type: application/json
     "name": "Amazing Person",
     "subscribedToChannel": "Web Dev Simplified"
 }
+
+###
+
+
+###
+PATCH  http://deploynode.app.ruk-com.cloud/subscribers
+Content-Type: application/json
+
+{
+    "name": "Homer"
+}
